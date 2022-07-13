@@ -86,9 +86,9 @@ const Header = () => {
                 <Link to="contact" className="nav-item nav-link">
                   Contact
                 </Link>
-                <Link to="admin" className="nav-item nav-link">
+                {/* <Link to="admin" className="nav-item nav-link">
                   Admin
-                </Link>
+                </Link> */}
               </div>
               <div>
                 <Link to="cart" className="btn btn-outline-info">
